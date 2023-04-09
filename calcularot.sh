@@ -2,6 +2,5 @@
 
 ######################
 #Addition functiion
-x=a+b
-a=2
-b=4
+x=1+2
+
